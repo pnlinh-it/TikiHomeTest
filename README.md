@@ -1,3 +1,2 @@
 # Demo #
-
-![picture alt](https://raw.githubusercontent.com/pnlinh-it/TikiHomeTest/master/captures/GIF.gif"Demo gif")
+![picture alt](https://github.com/pnlinh-it/TikiHomeTest/blob/master/GIF.gif "Title is optional")
